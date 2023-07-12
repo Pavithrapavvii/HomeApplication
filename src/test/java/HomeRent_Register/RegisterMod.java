@@ -1,6 +1,7 @@
 package HomeRent_Register;
 
 public class RegisterMod {
+	//welcome
 
 	public static void main(String[] args) {
 		String str="pavithra";
